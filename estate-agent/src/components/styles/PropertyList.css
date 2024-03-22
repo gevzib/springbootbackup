@@ -1,0 +1,46 @@
+.propertyListing {
+    border: 3px solid black;
+    padding: 0px 10px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.leadImage {
+    width: 300px;
+}
+
+.propertyListing > table td {
+    padding: 20px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.propertyListing > h3 {
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+#body select {
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#edit {
+    float: right;
+    margin-right: 20px;
+    font-size: 1em;
+    padding: 5px 15px;
+    margin-top: 8px;
+}
+
+#propertyBody {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#propertiesh1 {
+    margin-bottom: -35px;
+} 

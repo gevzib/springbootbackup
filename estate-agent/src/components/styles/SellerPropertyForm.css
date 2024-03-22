@@ -1,0 +1,134 @@
+#sellPropertyBody {
+    padding: 0px 100px;
+    margin: 30px;
+}
+
+#sellPropertyButton{
+    background: #a4b2b0;
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    border-radius: 0.25em;
+    position: absolute;
+    right: 150px;
+}
+
+#sellPropertyForm {
+    border: solid black 3px;
+    border-radius: 15px;
+    background-color: #d3c8bf;
+    padding-bottom: 50px;
+}
+
+#sellPropertyForm h3 {
+    font-size: 22px;
+}
+
+#sellPropertyBody select, input {
+    padding: 5px;
+    width: 250px;
+    font-size: 15px;
+}
+
+#sellPropertyForm .section1 {
+    margin-top: 30px;
+    display: flexbox;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    td {
+        width: 450px;
+    }
+}
+
+#sellPropertyForm .ad {
+    float: right;
+    padding-right: 10px;
+}
+
+#sellPropertyForm textarea {
+    width: 80%;
+    height: 150px;
+    float: left;
+    padding: 10px;
+}
+
+#sellPropertyForm .section2 {
+    margin-top: 30px;
+    display: flexbox;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+    td {
+        width: 50%;
+    }
+    #desc {
+        position: relative;
+        top: 0;
+        left: -10%;
+    }
+    #address {
+        text-align: left;
+        margin-left: 350px;
+    }
+}
+
+#sellPropertyForm .section3 {
+    width: 80%;
+    margin-left: 5%;
+    td {
+        text-align: left;
+    }
+}
+
+#addPhotos {
+    text-align: left;
+    padding-left: 12%;
+    padding-right: 12%;
+    margin-top: 40px;
+}
+
+#images {
+    display: inline;
+}
+
+.images {
+    max-width: 400px;
+    max-height: 250px;
+    padding: 10px;
+}
+
+table td {
+    padding: 10px 80px;
+    vertical-align: top;
+}
+
+.imageInput {
+    max-height: 200px;
+    margin: 5px;
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+#confirmProperty {
+    table {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    #propertyDesc {
+        text-align: left;
+        width: 80%;
+        margin-left: 20%;
+    }
+
+    button {
+        font-size: 20px;
+        margin-left: 20px;
+        border: 2px solid black;
+    }
+}

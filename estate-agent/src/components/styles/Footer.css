@@ -1,0 +1,12 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #bfbcb7;
+
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+
+    position: sticky;
+    bottom: 0;
+}

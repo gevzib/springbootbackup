@@ -1,0 +1,188 @@
+{
+  "buyers": [
+    {
+      "buyerID": "1",
+      "firstname": "Luffy",
+      "surname": "taro",
+      "email": "atuny0@sohu.com",
+      "telephone": "+63 791 675 8914",
+      "id": "eb91"
+    },
+    {
+      "buyerID": "2",
+      "firstname": "Terrill",
+      "surname": "Hills",
+      "email": "rshawe2@51.la",
+      "telephone": "+63 739 292 7942",
+      "id": "b7b1"
+    },
+    {
+      "buyerID": "3",
+      "firstname": "Zoro",
+      "surname": "Sword",
+      "email": "zoroenma@gmail.com",
+      "telephone": "+63 791 525 8591",
+      "id": "5bca"
+    },
+    {
+      "buyerID": "4",
+      "firstname": "Sanji",
+      "surname": "Soba",
+      "email": "sobacook5@gmail.com",
+      "telephone": "+63 791 878 8540",
+      "id": "4942"
+    },
+    {
+      "buyerID": "5",
+      "firstname": "Nami",
+      "surname": "Zeus",
+      "email": "ZeusCloud@hotmail.com",
+      "telephone": "+63 791 111 2222",
+      "id": "56dc"
+    },
+    {
+      "id": "296d",
+      "firstname": "Leon",
+      "surname": "Brown",
+      "email": "Leon@hello.com",
+      "telephone": "123545"
+    },
+    {
+      "id": "b843",
+      "firstname": "gfdrfrdsffds",
+      "surname": "fdsfdsgdsjgfhg",
+      "email": "gfdahgfdhgfs",
+      "telephone": "hgfdahgfdhgfdahgfda"
+    },
+    {
+      "id": "c406",
+      "firstname": "luffy",
+      "surname": "gf",
+      "email": "fdffffffffffff",
+      "telephone": "fffffffffffff"
+    },
+    {
+      "id": "644f",
+      "firstname": "hello",
+      "surname": "hello",
+      "email": "hello",
+      "telephone": "hello"
+    }
+  ],
+  "properties": [
+    {
+      "status": "Sold",
+      "address1": "Example 1",
+      "address2": "Address Line 2",
+      "city": "City",
+      "county": "Yorkshire",
+      "postcode": "Postcode",
+      "price": "140000",
+      "image": "/static/media/image1.42fb22d8050a1b04fc77.jpeg",
+      "type": "Flat",
+      "bedrooms": "2",
+      "details": "Stunning two bedroom balcony apartment facing the waterfront available 4th February 2024. Situated on the 2nd Floor, the apartment offers a large open plan living room and kitchen space with integrated appliances, dishwasher, fridge/freezer, oven and hob and a separate utility room housing a washer/dryer. Large double bedrooms with walk through wardrobe to en-suite bathrooms with large walk in showers.",
+      "id": "1274"
+    },
+    {
+      "status": "For Sale",
+      "address1": "Example 2",
+      "address2": "Address Line 2",
+      "city": "City",
+      "county": "Greater Manchester",
+      "postcode": "Postcode",
+      "price": "240000",
+      "image": "/static/media/bedroom1.e6efbef9f2e2e515a5f6.jpeg",
+      "type": "Flat",
+      "bedrooms": "2",
+      "details": "Stunning two bedroom balcony apartment facing the waterfront available 4th February 2024. Situated on the 2nd Floor, the apartment offers a large open plan living room and kitchen space with integrated appliances, dishwasher, fridge/freezer, oven and hob and a separate utility room housing a washer/dryer. Large double bedrooms with walk through wardrobe to en-suite bathrooms with large walk in showers.",
+      "id": "a80f"
+    },
+    {
+      "status": "Withdrawn",
+      "address1": "Example 3",
+      "address2": "Address Line 2",
+      "city": "City",
+      "county": "Cumbria",
+      "postcode": "Postcode",
+      "price": "240000",
+      "image": "/static/media/gym.662c31fb2dbea8e8ff6e.jpeg",
+      "type": "Flat",
+      "bedrooms": "2",
+      "details": "Stunning two bedroom balcony apartment facing the waterfront available 4th February 2024. Situated on the 2nd Floor, the apartment offers a large open plan living room and kitchen space with integrated appliances, dishwasher, fridge/freezer, oven and hob and a separate utility room housing a washer/dryer. Large double bedrooms with walk through wardrobe to en-suite bathrooms with large walk in showers.",
+      "id": "3ebf"
+    }
+  ],
+  "sellers": [
+    {
+      "sellerID": "1",
+      "firstname": "Brook",
+      "surname": "Sella",
+      "email": "brooksella@sohu.com",
+      "telephone": "+63 791 675 2104",
+      "id": "ecb9"
+    },
+    {
+      "sellerID": "2",
+      "firstname": "Franky",
+      "surname": "Sailor",
+      "email": "frankysailor@51.la",
+      "telephone": "+63 739 292 8888",
+      "id": "984b"
+    },
+    {
+      "sellerID": "3",
+      "firstname": "Kaido",
+      "surname": "Dragon",
+      "email": "dragonkaido@gmail.com",
+      "telephone": "+63 791 678 5252",
+      "id": "4b9a"
+    },
+    {
+      "sellerID": "4",
+      "firstname": "Jinbei",
+      "surname": "Sea",
+      "email": "warriorofthesea@gmail.com",
+      "telephone": "+63 791 878 9999",
+      "id": "9c3c"
+    },
+    {
+      "sellerID": "5",
+      "firstname": "Ace",
+      "surname": "Firefist",
+      "email": "holeinside@hotmail.com",
+      "telephone": "+63 791 111 2332",
+      "id": "af18"
+    },
+    {
+      "id": "4db9",
+      "firstName": "kjhjh",
+      "surname": "jhtggfh",
+      "email": "tergfdhgdgfd",
+      "phone": "gfgfgrgfd"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin1",
+      "password": "password1",
+      "id": "e268"
+    },
+    {
+      "email": "admin2",
+      "password": "password2",
+      "id": "e270"
+    },
+    {
+      "email": "admin3",
+      "password": "password3",
+      "id": "e280"
+    },
+    {
+      "id": "5627",
+      "name": "Mark",
+      "email": "Mark@Spenser",
+      "password": "blue"
+    }
+  ]
+}
